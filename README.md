@@ -35,7 +35,7 @@ Below is a screenshot of the result after selecting all records from the `users`
 
 Below is a screenshot of the result after deleting the user "Bob":
 
-![Data Deletion Result](path/to/your/second_screenshot.png)
+![Data Deletion Result](src/main/java/org/example/img_1.png)
 
 ## How to Run
 

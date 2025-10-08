@@ -29,7 +29,7 @@ All SQL queries are saved in the file `sql/queries.sql`.
 
 Below is a screenshot of the result after selecting all records from the `users` table:
 
-![Data Selection Result](path/to/your/first_screenshot.png)
+![Data Selection Result](src/main/java/org/example/img.png)
 
 ### 2. Data Deletion
 
